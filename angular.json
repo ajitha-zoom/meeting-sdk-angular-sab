@@ -21,7 +21,8 @@
             "aot": true,
             "assets": [
               "src/favicon.ico",
-              "src/assets"
+              "src/assets",
+              "src/coi-serviceworker.js"
             ],
             "styles": [
               "node_modules/@zoomus/websdk/dist/css/bootstrap.css",
